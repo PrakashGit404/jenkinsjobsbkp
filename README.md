@@ -1,2 +1,0 @@
-# jenkinsjobsbkp
-jenkins backup jobs
